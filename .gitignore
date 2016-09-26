@@ -1,0 +1,7 @@
+.idea/*
+raytracer
+*.gch
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake
